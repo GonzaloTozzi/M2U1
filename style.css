@@ -1,0 +1,41 @@
+    body {
+        background: linear-gradient(to right , #07c8f9, #0d41e1 );
+        font-family: 'Oswald', sans-serif;
+        font-family: 'Roboto Condensed', sans-serif;
+    }
+    
+    h1 {
+        font-size: 40px;
+    
+    }
+
+    img {
+        border-radius: 10px;
+        box-shadow: 5px 5px 10px black;
+    }
+    
+    div {
+        padding-left: 10px;
+        background-color: rgb(80, 153, 86);
+        border-radius: 10px;
+        box-shadow: 5px 5px 10px black;
+    }
+    
+    .series {
+        background-color: rgb(80, 153, 86);
+        border-radius: 10px;
+        box-shadow: 5px 5px 10px black;
+    }
+    
+    .peliculas {
+        background-color: rgb(80, 153, 86);
+        border-radius: 10px;
+        box-shadow: 5px 5px 10px black;
+    }
+
+    li{
+        padding: 2px;
+    }
+
+    
+    
